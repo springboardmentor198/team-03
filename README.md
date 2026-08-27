@@ -25,11 +25,24 @@
 
 ## Screenshots
 
-<p align="center">
-  <img src="docs/screenshots/DD LANDING PAGE.png" alt="Landing page" width="45%">
-  <img src="docs/screenshots/DD AI ASSISTANT.png" alt="AI chat" width="45%">
-  <img src="docs/screenshots/DD RISK REPORT 1.png" alt="Risk report" width="45%">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Landing Page</strong><br><br>
+      <img src="docs/screenshots/DD LANDING PAGE.png" alt="Landing page" width="700">
+    </td>
+    <td align="center">
+      <strong>AI Due Diligence Assistant</strong><br><br>
+      <img src="docs/screenshots/DD AI ASSISTANT.png" alt="AI Due Diligence Assistant" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>Risk Report</strong><br><br>
+      <img src="docs/screenshots/DD RISK REPORT 1.png" alt="Risk report" width="850">
+    </td>
+  </tr>
+</table>
 
 ## What is this?
 
